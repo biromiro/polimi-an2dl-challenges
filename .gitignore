@@ -160,3 +160,5 @@ cython_debug/
 #.idea/~
 
 public_data.npz
+images
+redundancy_matrix.npy
