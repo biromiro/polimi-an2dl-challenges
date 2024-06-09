@@ -43,9 +43,9 @@ cd polimi-an2dl-challenges
 
 ## Contributors
 
-- **Francesco Caserta** - francesco.caserta@polimi.it
+- **Francesco Caserta** - caserta.fc@gmail.com
 - **Nuno Costa** - n.r.t.c@hotmail.com
-- **Shodai Fujimoto** - shodai.fujimoto@polimi.it
+- **Shodai Fujimoto** - happysfit1122@gmail.com
 - **Rio Ishibashi** - ishibashi@ohtsuki.ics.keio.ac.jp
 
 Make sure to use the correct email addresses based on your institution's or project's email scheme or the personal preferences of the contributors. If the actual email addresses differ, replace them accordingly.
